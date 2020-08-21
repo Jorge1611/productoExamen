@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "productoExamen"
+    }
+  },
+  "defaultProject": "productoExamen",
+  "cli": {
+    "analytics": "e332cae7-be66-4fa6-9aa7-185b65cb597b"
+  }
 }
